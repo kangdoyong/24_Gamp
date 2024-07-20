@@ -1,0 +1,17 @@
+﻿  MainGame.cpp
+  Object.cpp
+C:\Users\rkden\OneDrive\바탕 화면\Vector (2)\framework.h(16,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 'MainGame.cpp'을(를) 컴파일하는 중)
+  
+C:\Users\rkden\OneDrive\바탕 화면\Vector (2)\framework.h(16,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 'Object.cpp'을(를) 컴파일하는 중)
+  
+  Player.cpp
+C:\Users\rkden\OneDrive\바탕 화면\Vector (2)\framework.h(16,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 'Player.cpp'을(를) 컴파일하는 중)
+  
+  WindowsProject1.cpp
+C:\Users\rkden\OneDrive\바탕 화면\Vector (2)\framework.h(16,10): error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  (소스 파일 'WindowsProject1.cpp'을(를) 컴파일하는 중)
+  
+  코드를 생성하고 있습니다...
